@@ -1,0 +1,97 @@
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.csprojAssemblyReference.cache
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.RazorAssemblyInfo.cache
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.RazorAssemblyInfo.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.AssemblyInfoInputs.cache
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.AssemblyInfo.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.deps.json
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.runtimeconfig.json
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.runtimeconfig.dev.json
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.dll
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.pdb
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.Views.dll
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.Views.pdb
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.TagHelpers.input.cache
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.TagHelpers.output.cache
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.RazorCoreGenerate.cache
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Drink\List.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Carousel.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\DrinksSummary.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.RazorTargetAssemblyInfo.cache
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.RazorTargetAssemblyInfo.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.Views.pdb
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.dll
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.pdb
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.csproj.CopyComplete
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedIn.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Academy\.NetCore\eCommerce App\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\LoginPartial.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.deps.json
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.runtimeconfig.json
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.runtimeconfig.dev.json
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.Views.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\bin\Debug\netcoreapp2.1\DrinkAndGo.Views.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.csprojAssemblyReference.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.RazorAssemblyInfo.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.RazorAssemblyInfo.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.AssemblyInfoInputs.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.AssemblyInfo.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.TagHelpers.input.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.TagHelpers.output.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.RazorCoreGenerate.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedIn.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Drink\List.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Carousel.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\DrinksSummary.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\LoginPartial.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.RazorTargetAssemblyInfo.cache
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.RazorTargetAssemblyInfo.cs
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.Views.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.dll
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.pdb
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\DrinkAndGo.csproj.CopyComplete
+C:\Users\FINTRAK\Documents\Visual Studio 2019\DrinkAndGo\obj\Debug\netcoreapp2.1\Razor\Views\Drink\Details.cshtml.g.cs
